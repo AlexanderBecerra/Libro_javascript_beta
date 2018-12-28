@@ -1,0 +1,43 @@
+body{
+    font-family: sans-serif;
+    
+}
+.b_wrap .b_counter {
+    background-color: #3c5c6a;
+    margin-left: 10%;
+    margin-right: 40%;
+    color: #ffffff; 
+}
+#wrapper{
+    padding-top: 40px; 
+}
+#gotopage{
+    text-align: center;
+}
+#in_go{
+    width: 40px;
+    margin-right: 10px;
+}
+#portada, #contra{
+    text-align: center;
+    background-color: #3c5c6a;
+    padding: 20px;
+    height: 560px;
+}
+#pagina1{
+    text-align: center; 
+}
+#pagina2{
+    background-color: #a8cfe0;
+    
+}
+#pagina1 h3{
+    text-align: left; 
+    background-color: rebeccapurple;
+}
+.pagina{
+    padding: 54px; 
+}
+#foto{
+    width: 80%;
+}
